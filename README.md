@@ -1,2 +1,2 @@
 # Python-Games
-Small and easy games written in Python
+Easy to understand games written in Python
